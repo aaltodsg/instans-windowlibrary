@@ -1,5 +1,5 @@
 
-## Aggregate Library
+## Aggregate Window Library
 
 _Note: To run the example, [INSTANS](https://github.com/aaltodsg/instans) needs to be [installed](https://github.com/aaltodsg/instans/wiki). It is also assumed that
 the $INSTANS_HOME environment variable points to the INSTANS root directory._
